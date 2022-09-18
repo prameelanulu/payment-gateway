@@ -1,0 +1,53 @@
+nav{
+		display: flex; 
+		flex-direction: left;
+		justify-content:space-between;
+		background-color:#ffe6ff;
+		height:70px;
+		 
+		box-shadow: 5p7x 5px 5px #f1e9f7;
+		box-sizing: 70px 70px 70px;
+		}	
+
+
+nav .navigation ul
+{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+nav .navigation ul li{
+	list-style: none;
+	margin-left: 10px
+
+}
+nav .navigation ul li a
+{
+	text-decoration: none;
+	color:blue;
+	transition-duration: 1s;
+	padding:5 5 5;
+	background-color:yellow;
+	border-color:black;
+	 
+}
+nav .navigation ul li a:hover
+{
+	 
+	color:cyan;
+
+}
+.donatebutton
+{
+	
+}
+.donatebutton button
+{
+	background-color: #ccffff;
+	color:red;
+	align-content: center;
+	padding: 10 10 10;
+	align-self: center;
+	border-radius: 5px;
+}
