@@ -2,10 +2,10 @@ nav{
 		display: flex; 
 		flex-direction: left;
 		justify-content:space-between;
-		background-color:#ffe6ff;
+	        background-color:#ffe6ff;
 		height:70px;
 		 
-		box-shadow: 5p7x 5px 5px #f1e9f7;
+		
 		box-sizing: 70px 70px 70px;
 		}	
 
